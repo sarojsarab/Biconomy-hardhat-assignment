@@ -1,4 +1,4 @@
-# Biconomy-hardhat-assignment
+# Blockchain automation using hardhat
 
 To Run and compile the project follow the below steps
 
